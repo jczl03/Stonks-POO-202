@@ -13,11 +13,21 @@
 -JDK version 14.0.1 [https://www.oracle.com/co/java/technologies/javase/jdk14-archive-downloads.html]  
 
 **Instrucciones instalación:**  
--Empezar servicio de MySQLy Apache en XAMPP   
+-Empezar servicio de MySQLy Apache en XAMPP  
+
+
 -Ir a http://localhost/phpmyadmin/  
+
+
 -Crear una nueva BD llamada stonks  
+
+
 -Importar la BD del documento sql del .zip  
-Ya podrá abrir el archivo portable STONKS.jar  
+
+
+ 
+
+
 
 **Recomendación:**  
 En caso de error, pruebe con desinstalar Java 8  
